@@ -16,13 +16,13 @@
     "next": "14.0.3",
     "next-auth": "^4.24.5",
     "prettier": "^3.1.0",
-    "prettier-plugin-tailwindcss": "^0.5.7",
     "prisma": "^5.6.0",
     "react": "^18",
     "react-dom": "^18",
     "zod": "^3.22.4"
   },
   "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.5.7",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
